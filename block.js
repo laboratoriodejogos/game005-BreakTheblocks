@@ -3,6 +3,7 @@ function Block(x,y){
     this.y = y + 45;
     this.w = 80;
     this.h = 40;
+    this.points = 1;
     this.top = this.x - this.w/2;
   this.bottom = this.x + this.w/2;
     this.color1 = random(255);

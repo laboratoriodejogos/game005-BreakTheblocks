@@ -1,9 +1,9 @@
 function Ball(){
-   this.x = width / 2;
-   this.y = height /2 + 150;
+   this.x = width / 3;
+   this.y = height / 2 + 160;
   this.radius = 20;
-  this.vx = 4;
-  this.vy = 5;
+  this.vx = 6;
+  this.vy = 4;
   
   this.show = function(){
     fill(255);
@@ -14,6 +14,14 @@ function Ball(){
     this.y += this.vy; 
     if(this.x > width || this.x < 0)
       this.vx = -this.vx;
+    if(this.y > height)
+      this.y = height/2 + 0;
+    if(this.y > 599)
+      playerScore = playerScore - 1;
+      
+      
+    
+      
       
     
     }
@@ -27,6 +35,5 @@ function Ball(){
   
   
   
-  
-  
 }
+

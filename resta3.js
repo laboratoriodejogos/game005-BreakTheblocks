@@ -4,9 +4,12 @@ function Resta3(){
   this.radius = 20;
   
     this.show = function(){
-    fill(255);
+    fill(255)
+     if(b.y > 599)
+       fill(0)
   ellipse(this.x,this.y,this.radius,this.radius);
   }
   
+ 
   
 }
