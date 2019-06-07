@@ -12,11 +12,9 @@ Versão 0.1</br>
 
 ### Publicado em: https://laboratoriodejogos.github.io/game005-BreakTheblocks/
 
-<br>
-<br>
 #### Baseado no original 
-  Video Part 1: https://www.youtube.com/watch?v=IPSXnBzMcg4
-  Video Part 2: https://www.youtube.com/watch?v=KPRgdPwQQT0
+ - Video Part 1: https://www.youtube.com/watch?v=IPSXnBzMcg4
+ - Video Part 2: https://www.youtube.com/watch?v=KPRgdPwQQT0
  
  
  ### Alterações realizadas nesta versão:
