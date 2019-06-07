@@ -14,9 +14,9 @@ Versão 0.1</br>
 
 <br>
 <br>
-#### Baseado no original: 
- - Video Part 1: https://www.youtube.com/watch?v=IPSXnBzMcg4
- - Video Part 2: https://www.youtube.com/watch?v=KPRgdPwQQT0
+#### Baseado no original 
+  Video Part 1: https://www.youtube.com/watch?v=IPSXnBzMcg4
+  Video Part 2: https://www.youtube.com/watch?v=KPRgdPwQQT0
  
  
  ### Alterações realizadas nesta versão:
